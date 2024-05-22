@@ -1,0 +1,33 @@
+.heading {
+    background-color: #264653;
+    color: rgb(233, 196, 106);
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#subheading {
+    background-color: #2A9D8F; opacity: 0.9;
+    color: #E9C46A;
+    text-align: center;
+    font-weight: 570;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ol li {
+    background-color: #E9C46A51;
+    color: #2A9D8F;
+    font-size: 1rem;
+    
+
+}
+li a {
+    color: #E76F51;
+}
+
+div.first-con {
+    background-color: #E9C46A;
+    
+}
+
